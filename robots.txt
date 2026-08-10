@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: prilozhenie-kazino.github.io
+Sitemap: https://prilozhenie-kazino.github.io/sitemap.xml
